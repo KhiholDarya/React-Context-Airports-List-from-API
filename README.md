@@ -1,4 +1,4 @@
-# PS 11 - 16.06.2024 Zadanie zaliczeniowe (sem2) - "Zakupownik "Online" "
+# Zadanie zaliczeniowe (sem2) - "Zakupownik "Online" "
 
 # Uruchomienie
 
