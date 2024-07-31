@@ -1,0 +1,15 @@
+.appWrapper {
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+.columnsWrapper {
+  display: flex;
+  height: calc(100vh - 100px);
+}
+
+.filters {
+	padding: 30px 0px;
+	padding-left: 160px;
+}
